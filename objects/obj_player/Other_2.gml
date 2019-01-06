@@ -7,7 +7,14 @@ room_goto(room0);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 4D49931C
-/// @DnDArgument : "expr" "false"
-/// @DnDArgument : "var" "Activator"
-Activator = false;
+/// @DnDHash : 639F559C
+/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "var" "__dnd_health"
+__dnd_health = 10;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 6BDA2442
+/// @DnDArgument : "steps" "1"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 1);

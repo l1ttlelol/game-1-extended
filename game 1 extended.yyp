@@ -343,6 +343,25 @@
             }
         },
         {
+            "Key": "67015b80-e475-4e79-b875-eb49a4186754",
+            "Value": {
+                "id": "cdf2a64b-72fe-40ea-8c38-b6bf175d1761",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/death\/death.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "71115395-3896-4285-93f8-657b21965292",
             "Value": {
                 "id": "44ab0135-1c28-4104-853f-1c40599ef23d",
