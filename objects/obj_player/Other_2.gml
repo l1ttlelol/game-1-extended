@@ -5,13 +5,6 @@
 /// @DnDSaveInfo : "room" "a7653021-0368-4107-9208-388c9ee7a09d"
 room_goto(room0);
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 639F559C
-/// @DnDArgument : "expr" "10"
-/// @DnDArgument : "var" "__dnd_health"
-__dnd_health = 10;
-
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 6BDA2442

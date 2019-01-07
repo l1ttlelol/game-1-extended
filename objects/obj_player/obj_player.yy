@@ -202,9 +202,9 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "variable_name",
-            "varType": 0
+            "value": "10",
+            "varName": "HP",
+            "varType": 1
         }
     ],
     "solid": true,

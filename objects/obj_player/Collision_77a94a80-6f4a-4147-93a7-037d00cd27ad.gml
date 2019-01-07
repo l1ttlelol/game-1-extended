@@ -1,6 +1,7 @@
-/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 51F245F0
-/// @DnDArgument : "health" "__dnd_health-1"
-
-__dnd_health = real(__dnd_health-1);
+/// @DnDHash : 567C45C7
+/// @DnDArgument : "expr" "-1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "HP"
+HP += -1;
